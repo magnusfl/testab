@@ -1,0 +1,15 @@
+$color-grey: #B7C2CD;
+$color-grey-light: #A7A7A7;
+$color-blue: #8093A7;
+$color-red: #793953;
+
+
+// breakpoints
+
+$breakpoint-tablet: 767px;
+$breakpoint-desktop: 1025px;
+
+// mediaqueries
+$media-tablet-under: "screen and (max-width: $breakpoint-desktop)";
+$media-tablet: "screen and (min-width: $breakpoint-tablet)";
+$media-desktop: "screen and (min-width: $breakpoint-desktop)";
